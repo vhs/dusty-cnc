@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContinuousLabel Version="8.0" Units="twips">
+  <PaperOrientation>Landscape</PaperOrientation>
+  <Id>Tape12mm</Id>
+  <PaperName>12mm</PaperName>
+  <LengthMode>Auto</LengthMode>
+  <LabelLength>7200</LabelLength>
+  <RootCell>
+    <Length>7200</Length>
+    <LengthMode>Auto</LengthMode>
+    <BorderWidth>0</BorderWidth>
+    <BorderStyle>Solid</BorderStyle>
+    <BorderColor Alpha="255" Red="0" Green="0" Blue="0"/>
+    <SubcellsOrientation>Horizontal</SubcellsOrientation>
+    <Subcells>
+      <Cell>
+        <TextObject>
+          <Name>Price</Name>
+          <ForeColor Alpha="255" Red="0" Green="0" Blue="0"/>
+          <BackColor Alpha="0" Red="255" Green="255" Blue="255"/>
+          <LinkedObjectName></LinkedObjectName>
+          <Rotation>Rotation0</Rotation>
+          <IsMirrored>False</IsMirrored>
+          <IsVariable>True</IsVariable>
+          <HorizontalAlignment>Left</HorizontalAlignment>
+          <VerticalAlignment>Middle</VerticalAlignment>
+          <TextFitMode>AlwaysFit</TextFitMode>
+          <UseFullFontHeight>True</UseFullFontHeight>
+          <Verticalized>False</Verticalized>
+          <StyledText>
+            <Element>
+              <String>W-000</String>
+              <Attributes>
+                <Font Family="IBM Plex Sans Condensed" Size="18" Bold="True" Italic="False" Underline="False" Strikeout="False"/>
+                <ForeColor Alpha="255" Red="0" Green="0" Blue="0"/>
+              </Attributes>
+            </Element>
+          </StyledText>
+        </TextObject>
+        <ObjectMargin Left="0" Right="147.4016" Top="0" Bottom="0"/>
+        <Length>1161.507</Length>
+        <LengthMode>Fixed</LengthMode>
+        <BorderWidth>0</BorderWidth>
+        <BorderStyle>Solid</BorderStyle>
+        <BorderColor Alpha="255" Red="0" Green="0" Blue="0"/>
+      </Cell>
+      <Cell>
+        <TextObject>
+          <Name>Text</Name>
+          <ForeColor Alpha="255" Red="0" Green="0" Blue="0"/>
+          <BackColor Alpha="0" Red="255" Green="255" Blue="255"/>
+          <LinkedObjectName></LinkedObjectName>
+          <Rotation>Rotation0</Rotation>
+          <IsMirrored>False</IsMirrored>
+          <IsVariable>True</IsVariable>
+          <HorizontalAlignment>Left</HorizontalAlignment>
+          <VerticalAlignment>Top</VerticalAlignment>
+          <TextFitMode>AlwaysFit</TextFitMode>
+          <UseFullFontHeight>True</UseFullFontHeight>
+          <Verticalized>False</Verticalized>
+          <StyledText>
+            <Element>
+              <String>SIGNAL
+Terminal</String>
+              <Attributes>
+                <Font Family="IBM Plex Sans Condensed" Size="36" Bold="False" Italic="False" Underline="False" Strikeout="False"/>
+                <ForeColor Alpha="255" Red="0" Green="0" Blue="0"/>
+              </Attributes>
+            </Element>
+          </StyledText>
+        </TextObject>
+        <ObjectMargin Left="0" Right="0" Top="0" Bottom="0"/>
+        <Length>1023.353</Length>
+        <LengthMode>Fixed</LengthMode>
+        <BorderWidth>0</BorderWidth>
+        <BorderStyle>Solid</BorderStyle>
+        <BorderColor Alpha="255" Red="0" Green="0" Blue="0"/>
+      </Cell>
+      <Cell>
+        <TextObject>
+          <Name>TEXT</Name>
+          <ForeColor Alpha="255" Red="0" Green="0" Blue="0"/>
+          <BackColor Alpha="0" Red="255" Green="255" Blue="255"/>
+          <LinkedObjectName></LinkedObjectName>
+          <Rotation>Rotation0</Rotation>
+          <IsMirrored>False</IsMirrored>
+          <IsVariable>False</IsVariable>
+          <HorizontalAlignment>Left</HorizontalAlignment>
+          <VerticalAlignment>Middle</VerticalAlignment>
+          <TextFitMode>AlwaysFit</TextFitMode>
+          <UseFullFontHeight>True</UseFullFontHeight>
+          <Verticalized>False</Verticalized>
+          <StyledText>
+            <Element>
+              <String>W-000</String>
+              <Attributes>
+                <Font Family="IBM Plex Sans Condensed" Size="13" Bold="True" Italic="False" Underline="False" Strikeout="False"/>
+                <ForeColor Alpha="255" Red="0" Green="0" Blue="0"/>
+              </Attributes>
+            </Element>
+          </StyledText>
+        </TextObject>
+        <ObjectMargin Left="0" Right="0" Top="0" Bottom="0"/>
+        <Length>1111.772</Length>
+        <LengthMode>Fixed</LengthMode>
+        <BorderWidth>0</BorderWidth>
+        <BorderStyle>Solid</BorderStyle>
+        <BorderColor Alpha="255" Red="0" Green="0" Blue="0"/>
+      </Cell>
+      <Cell>
+        <TextObject>
+          <Name>TEXT_1</Name>
+          <ForeColor Alpha="255" Red="0" Green="0" Blue="0"/>
+          <BackColor Alpha="0" Red="255" Green="255" Blue="255"/>
+          <LinkedObjectName></LinkedObjectName>
+          <Rotation>Rotation0</Rotation>
+          <IsMirrored>False</IsMirrored>
+          <IsVariable>False</IsVariable>
+          <HorizontalAlignment>Left</HorizontalAlignment>
+          <VerticalAlignment>Middle</VerticalAlignment>
+          <TextFitMode>AlwaysFit</TextFitMode>
+          <UseFullFontHeight>True</UseFullFontHeight>
+          <Verticalized>False</Verticalized>
+          <StyledText>
+            <Element>
+              <String>SIGNAL
+Terminal</String>
+              <Attributes>
+                <Font Family="IBM Plex Sans Condensed" Size="36" Bold="False" Italic="False" Underline="False" Strikeout="False"/>
+                <ForeColor Alpha="255" Red="0" Green="0" Blue="0"/>
+              </Attributes>
+            </Element>
+          </StyledText>
+        </TextObject>
+        <ObjectMargin Left="0" Right="0" Top="0" Bottom="0"/>
+        <Length>751.9469</Length>
+        <LengthMode>Fixed</LengthMode>
+        <BorderWidth>0</BorderWidth>
+        <BorderStyle>Solid</BorderStyle>
+        <BorderColor Alpha="255" Red="0" Green="0" Blue="0"/>
+      </Cell>
+    </Subcells>
+  </RootCell>
+</ContinuousLabel>

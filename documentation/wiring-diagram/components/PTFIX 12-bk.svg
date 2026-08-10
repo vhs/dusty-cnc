@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 119 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="TB25.4-10" serif:id="TB25.4 10">
+        <path d="M116.85,0C117.185,-0 117.505,0.133 117.741,0.369C117.978,0.605 118.11,0.926 118.11,1.26C118.11,7.18 118.11,32.191 118.11,38.11C118.11,38.444 117.978,38.765 117.741,39.001C117.505,39.237 117.185,39.37 116.85,39.37C104.99,39.37 13.12,39.37 1.26,39.37C0.926,39.37 0.605,39.237 0.369,39.001C0.133,38.765 -0,38.444 -0,38.11C-0,32.191 -0,7.18 -0,1.26C-0,0.926 0.133,0.605 0.369,0.369C0.605,0.133 0.926,-0 1.26,0C13.12,0 104.99,0 116.85,0Z" style="fill:rgb(48,48,48);"/>
+        <circle cx="4.921" cy="7.169" r="4.844" style="fill:rgb(102,102,102);"/>
+        <circle cx="14.764" cy="7.169" r="4.844" style="fill:rgb(102,102,102);"/>
+        <circle cx="24.606" cy="7.169" r="4.844" style="fill:rgb(102,102,102);"/>
+        <circle cx="34.449" cy="7.169" r="4.844" style="fill:rgb(102,102,102);"/>
+        <circle cx="44.291" cy="7.169" r="4.844" style="fill:rgb(102,102,102);"/>
+        <circle cx="54.134" cy="7.169" r="4.844" style="fill:rgb(102,102,102);"/>
+        <circle cx="63.976" cy="7.169" r="4.844" style="fill:rgb(102,102,102);"/>
+        <circle cx="73.819" cy="7.169" r="4.844" style="fill:rgb(102,102,102);"/>
+        <circle cx="83.661" cy="7.169" r="4.844" style="fill:rgb(102,102,102);"/>
+        <circle cx="93.504" cy="7.169" r="4.844" style="fill:rgb(102,102,102);"/>
+        <circle cx="103.346" cy="7.169" r="4.844" style="fill:rgb(102,102,102);"/>
+        <circle cx="113.189" cy="7.169" r="4.844" style="fill:rgb(102,102,102);"/>
+        <rect x="0.271" y="14.338" width="9.3" height="9.3" style="fill:rgb(250,153,56);"/>
+        <rect x="10.114" y="14.338" width="9.3" height="9.3" style="fill:rgb(250,153,56);"/>
+        <rect x="19.956" y="14.338" width="9.3" height="9.3" style="fill:rgb(250,153,56);"/>
+        <rect x="29.799" y="14.338" width="9.3" height="9.3" style="fill:rgb(250,153,56);"/>
+        <rect x="39.641" y="14.338" width="9.3" height="9.3" style="fill:rgb(250,153,56);"/>
+        <rect x="49.484" y="14.338" width="9.3" height="9.3" style="fill:rgb(250,153,56);"/>
+        <rect x="59.326" y="14.338" width="9.3" height="9.3" style="fill:rgb(250,153,56);"/>
+        <rect x="69.169" y="14.338" width="9.3" height="9.3" style="fill:rgb(250,153,56);"/>
+        <rect x="79.011" y="14.338" width="9.3" height="9.3" style="fill:rgb(250,153,56);"/>
+        <rect x="88.854" y="14.338" width="9.3" height="9.3" style="fill:rgb(250,153,56);"/>
+        <rect x="98.696" y="14.338" width="9.3" height="9.3" style="fill:rgb(250,153,56);"/>
+        <rect x="108.539" y="14.338" width="9.3" height="9.3" style="fill:rgb(250,153,56);"/>
+    </g>
+</svg>

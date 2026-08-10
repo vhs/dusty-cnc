@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-05102021-050742";"";
+"REFERENCE";"1689750";"";
+"TraceParts.PartTitle";"VS-25-A";"";
+"TraceParts.InstanceId";"90-05102021-05074250DJ0WCNR0TOFSHJKQ88Y4S31";"";
+"TraceParts.PartLanguage";"en";"";
+"SUPPLIER";"Phoenix Contact";"";
+"DESIGN";"Panel-mount frame";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"ATT_0173_1_02_AAO663_003";"4017918922009";"";
+"TraceParts.PartVersion";"1.1.5";"";

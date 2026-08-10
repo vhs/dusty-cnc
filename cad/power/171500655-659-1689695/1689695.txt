@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-06102021-038950";"";
+"REFERENCE";"1689695";"";
+"TraceParts.PartTitle";"VS-09-A-GC-BU/BU";"";
+"TraceParts.InstanceId";"90-06102021-0389502W662XTY2K2VMTO6HOPGBTT0Q";"";
+"ATT_0173_1_02_AAF607_003";"Female/Female";"";
+"ATT_0173_1_02_AAT080_002";"9";"";
+"TraceParts.PartLanguage";"en";"";
+"SUPPLIER";"Phoenix Contact";"";
+"DESIGN";"Panel-mount frame";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"ATT_0173_1_02_AAO663_003";"4017918929046";"";
+"TraceParts.PartVersion";"1.0.9";"";

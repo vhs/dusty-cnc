@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 355 197" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g>
+        <path d="M0.002,187.84L0.002,9.016C0.002,4.039 4.041,0 9.018,0L254.548,0C259.525,0 263.564,4.039 263.564,9.016L263.564,38.636L271.301,38.636L271.301,85.404L279.712,85.404L279.712,87.704L349.575,87.704C352.217,87.704 354.363,89.85 354.363,92.492L354.363,104.365C354.363,107.006 352.217,109.153 349.575,109.153L279.712,109.153L279.712,111.444L271.301,111.444L271.301,158.22L263.564,158.22L263.564,187.84C263.564,192.817 259.534,196.848 254.557,196.848L9.01,196.848C4.033,196.848 0.002,192.817 0.002,187.84" style="fill:rgb(170,173,174);fill-rule:nonzero;"/>
+        <rect x="38.768" y="0.003" width="186.027" height="196.848"/>
+        <g opacity="0.2">
+            <rect x="263.563" y="38.634" width="7.737" height="119.584"/>
+        </g>
+        <g opacity="0.2">
+            <rect x="271.3" y="85.402" width="8.412" height="26.041" style="fill:rgb(37,50,53);"/>
+        </g>
+        <g opacity="0.2">
+            <path d="M0.002,170.633L263.564,170.633L263.564,170.637C263.564,185.112 251.832,196.845 237.357,196.845L26.209,196.845C11.735,196.845 0.002,185.112 0.002,170.637L0.002,170.633Z" style="fill:rgb(37,50,53);fill-rule:nonzero;"/>
+        </g>
+        <g opacity="0.2">
+            <path d="M263.562,29.179L0,29.179L0,29.17C0,13.061 13.06,0.001 29.173,0.001L234.389,0.001C250.502,0.001 263.562,13.061 263.562,29.17L263.562,29.179Z" style="fill:rgb(37,50,53);fill-rule:nonzero;"/>
+        </g>
+        <g opacity="0.4">
+            <rect x="0.001" y="160.571" width="263.566" height="10.063" style="fill:white;"/>
+        </g>
+        <g opacity="0.4">
+            <rect x="0.001" y="29.119" width="263.566" height="10.063" style="fill:white;"/>
+        </g>
+        <g opacity="0.4">
+            <path d="M271.3,94.992L271.3,85.402L279.711,85.402L279.711,87.702L349.574,87.702C352.22,87.702 354.362,89.849 354.362,92.495L354.362,94.992L271.3,94.992Z" style="fill:white;fill-rule:nonzero;"/>
+        </g>
+    </g>
+</svg>

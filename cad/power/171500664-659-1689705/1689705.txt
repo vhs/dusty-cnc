@@ -1,0 +1,17 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"1689705";"";
+"ATT_0173_1_02_AAT080_002";"9";"";
+"ATT_0173_1_02_BAB392_017";"CE-compliant";"";
+"SUPPLIER";"Phoenix Contact";"";
+"TraceParts.PartNumber";"90-20102021-039816";"";
+"ATT_0173_1_02_BAF016_006";"24";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Panel-mount frame";"";
+"TraceParts.InstanceId";"90-20102021-0398164T9OVCDXYR98ABAZ5MYFLU7IK";"";
+"ATT_0173_1_02_AAO663_003";"4017918929053";"";
+"TraceParts.PartTitle";"VS-09-A-GC-ST/ST";"";
+"ATT_0173_1_02_BAB577_008";"54";"";
+"ATT_0173_1_02_BAA020_010";"27.9";"";
+"ATT_0173_1_02_BAB888_010";"Panel-mount frame";"";
+"TraceParts.PartVersion";"1.1.3";"";
+"TRACEPARTS";"TRACEPARTS";"";

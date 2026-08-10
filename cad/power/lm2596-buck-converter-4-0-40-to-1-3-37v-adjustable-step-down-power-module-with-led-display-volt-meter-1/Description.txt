@@ -1,0 +1,27 @@
+LM2596 Buck Converter 4.0~40 to 1.3-37V Adjustable Step-Down Power Module with LED Display Volt meter
+
+Link to CAD file:
+https://grabcad.com/library/lm2596-buck-converter-4-0-40-to-1-3-37v-adjustable-step-down-power-module-with-led-display-volt-meter-1
+
+#CAD #SolidWorks #3dmodel #buckconverter #stepdownbuckconverter #LM2596
+
+Input voltage:4.0V-40V
+
+Output voltage:1.25V～37V
+
+Voltage regulation ± 2.5%
+
+Switching frequency:150KHz
+
+Conversion efficiency: 92%(highest),
+Load regulation ±0.5%
+
+Max Electric current: 3A
+Normal working electric current: 2A
+
+150KHz Internal oscillation frequency
+Low power consumption
+High efficiency
+
+Buy Links:
+https://www.aliexpress.us/item/2251832392854599.html
